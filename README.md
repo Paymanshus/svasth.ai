@@ -1,6 +1,5 @@
 # Svasth.ai
 #### *Medical Chat-Bot*
-*HackOff v3.0 - Siemens Healthineers Problem Statement 3*
 
 ## Table Of Contents
   - [Working Demo](#working-demo)
@@ -12,10 +11,10 @@
   
   
 ## Working Demo
-- [Click Here to Working Chat-Bot Video](https://youtu.be/6qWDjOwaF2I)
 
-## Problem Statement
-Build a AI driven chatbot for general health related query(a first level screening)
+[![svastha.i](https://img.youtube.com/vi/HrWVF_Gucy0/0.jpg)](https://www.youtube.com/watch?v=HrWVF_Gucy0)
+
+
 
 ## About
 We have created a chatbot that can reduce the stress from frontline healthcare workers and help the patients by providing a pre-diagnosis based on the symptoms and other basic information that a patient needs. The chatbot also helps in suggesting nearby hospitals to the patients.
